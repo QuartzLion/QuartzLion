@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @QuartzLion
-- 👀 I’m interested in Coding and gaming
-- 🌱 I’m currently learning html for web development
-- 💞️ I’m looking to collaborate on a simple html project
-- 📫 How to reach me by my email
+- 👀 I’m interested in Coding and Novels
+- 🌱 I’m currently learning Simple Machine Learning 
+  
 
 <!---
 QuartzLion/QuartzLion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
